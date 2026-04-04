@@ -6,7 +6,7 @@ The goal of this project was to understand how a complete robotics pipeline work
 
 ---
 
-## What’s in this project
+## What’s in this project i.e: important
 
 The workspace contains multiple ROS2 packages that work together:
 
